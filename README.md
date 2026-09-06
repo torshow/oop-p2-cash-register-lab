@@ -2,6 +2,14 @@
 
 Now that we’ve discussed more about object oriented design philosophies and techniques like decorators we will be looking at building more complex objects. In this case we will be building a cash register object to simulate different functions of a cash register for an e-commerce site. 
 
+## About This Project
+
+This project implements a `CashRegister` class that tracks items added 
+to a register, keeps a running total, applies a percentage discount, 
+and can void the last transaction.
+
+![Passing tests](screenshots/screenshot.png)
+
 ## Tools & Resources
 * [GitHub Repo](https://github.com/learn-co-curriculum/oop-p2-cash-register-lab)
 * [Python Classes](https://docs.python.org/3/tutorial/classes.html)
